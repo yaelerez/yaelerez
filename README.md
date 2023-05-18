@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science education
 - 🌱 I’m currently learning for my phd in technology and science education
 - 💞️ I’m looking to collaborate on research related to computer science education
-- 📫 How to reach me yael.erez@gmail.com
+- 📫 How to reach me yael.erez@gmail.com or yaelerez@campus.technion.ac.il
 
 <!---
 yaelerez/yaelerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
